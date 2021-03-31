@@ -86,7 +86,7 @@ if __name__ == "__main__":
 
 
     if not solved:
-        print("You failed to escape. Fututre archelogists gaze upon your remains in bafflement.") 
+        print("You failed to escape ya goose. Fututre archelogists gaze upon your remains in bafflement.") 
         # Did not reach the end.
 
 
